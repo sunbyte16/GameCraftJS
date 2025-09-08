@@ -1,4 +1,4 @@
-# notpygamejs 🎮
+# GameCraftJS 🎮
 
 Lightweight JavaScript game-making library built on the HTML5 Canvas. It abstracts the boring boilerplate (game loop, input handling, timing) so you can focus on gameplay.
 
